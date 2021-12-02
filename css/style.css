@@ -23,3 +23,23 @@
 .headerli a:hover {
     text-decoration:underline;
 }
+
+.jumbotron {
+    text-align: center;
+    background-color: #FDFFE7;
+    
+}
+
+.display-4 {
+    font-family: 'Courier New', Courier, monospace;
+    color:#3A6351;
+}
+
+.jumbotronul {
+    list-style: none;
+}
+
+.btn {
+    color: aliceblue;
+    background-color: #70AF85;
+}
