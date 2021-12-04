@@ -48,3 +48,12 @@
     margin-bottom:20px;
 }
 
+.btn1 {
+    border:none;
+} 
+
+.card:hover {
+    border:white;
+    border-style: outset;
+}
+
